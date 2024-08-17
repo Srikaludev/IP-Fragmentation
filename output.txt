@@ -1,0 +1,7 @@
+IPsourceaddr    ID         Result         
+172.16.88.12    123        Mismatch in offset
+202.41.45.117   1          1480           
+202.41.85.117   1          Missing fragment
+202.41.85.117   231        Missing fragment
+202.41.85.117   243        Mismatch in offset
+234.44.34.23    234        Missing fragment
